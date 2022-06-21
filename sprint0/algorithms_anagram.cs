@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+using System.Linq;
 static class AnagramSolver
 {
     public static bool IsAnagram(string s1, string s2)
