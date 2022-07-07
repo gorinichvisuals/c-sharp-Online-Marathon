@@ -1,1 +1,0 @@
-//Some task 6
